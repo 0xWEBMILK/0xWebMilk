@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
 <img src="header.png">
+
+<!--
 
 Here are some ideas to get you started:
 
