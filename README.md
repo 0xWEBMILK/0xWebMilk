@@ -32,6 +32,7 @@
 
 <div id="badges">
   <img src="https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>
+  <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="node.js"/>
 </div>
 
 <i>Version Control Systems / Repo Hosting Services / Package Managers</i>
