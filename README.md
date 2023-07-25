@@ -1,10 +1,10 @@
-<h2>Hi there👋, I'm WebMilk, I started coding in 2022🕒</h2>
+<h2>Hi there👋, I'm WebMilk, I started coding in 2016🕒</h2>
 
 <p>⚡️ I am a Junior Web Developer;</p>
 
-<p>🌱 I am coder, I love coding. I am engaged in web development, sometimes I code in Python.</p>
+<p>🌱 I am coder, I love coding. I am engaged in web development, sometimes I code in Python, C++, ASM.</p>
 
-<p>💻 Avaliable to work: NONE</p>
+<p>💻 Avaliable to work: Soon</p>
 
 <p>📞 Contact me: <a href='https://t.me/webmilk'><b>WEBMILK</b></a></p>
 
