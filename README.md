@@ -11,4 +11,4 @@
 ### Vibing to <img alt="Spotify" height="17" width="17" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png">
 <div align="center">
 
-[![Spotify](https://novatorem-rho-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/31dq5aravxogicr3zzpxhqzphhne)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0D000000&border_color=0D000000)](https://open.spotify.com/user/31dq5aravxogicr3zzpxhqzphhne)
