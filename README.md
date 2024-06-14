@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Signika&size=30&pause=1000&color=373737&random=false&width=435&lines=Data-Science;Machine+learning;Deep+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Signika&size=30&pause=1000&color=373737&random=false&width=435&lines=Data-Science;Machine+learning;Deep+learning;Low-Level)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **Neural Networks**
 
