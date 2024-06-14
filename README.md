@@ -4,6 +4,6 @@
 
 - 🌱 I’m learning **Deep Learning, Machine Learning, Computer Vision**
 
-- 👯 looking to collaborate on **Python projects || Full-Stack Projects**
+- 👯 looking to collaborate on **Python projects || Low-Level**
 
 - 💬 Ask me about **AI || ML || CV || Full-Stack**
